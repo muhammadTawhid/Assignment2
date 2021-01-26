@@ -1,0 +1,67 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+   
+.top-img{
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+}
+nav {
+    height: 80px;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.containner{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px; 
+}
+.containner2{
+    display: flex;
+    justify-content: space-evenly;
+   padding-top: 5%;
+}
+
+ nav li {
+    list-style: none;
+    float: right;
+    padding: 15px;
+}
+.nav li a :hover {
+    color: rgb(17, 38, 231);}
+
+ li a {
+    text-decoration: none;
+    color: black;
+}
+.first img{ 
+    width: 450px;
+}
+.had1{
+    width: 30%;
+    font-size: 15px;
+    margin-top: 5%;
+}
+.text-colr{
+    color: coral;
+}
+.button{
+    text-decoration: none;
+   background-color: coral;
+    padding: 10px 20px;
+    color: whitesmoke;
+    font-weight: 550;
+    margin-left: 5px;
+}
+.mt-5{
+    margin-left: 15%;
+}
+ .about {
+    border-radius: 30px;
+}
+.card {
+    border-radius: 30px;
+}
+
